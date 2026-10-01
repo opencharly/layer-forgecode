@@ -9,7 +9,7 @@ forgecode:
             ~/.npm-global/lib/node_modules/forgecode, and `forge --version` exits
             cleanly.
         require:
-            - '@github.com/opencharly/layer-nodejs:v2026.239.1624'
+            - '@github.com/opencharly/layer-nodejs:v2026.272.0322'
         plan:
             - check: the forge binary is installed into the npm global bin directory
               file:
